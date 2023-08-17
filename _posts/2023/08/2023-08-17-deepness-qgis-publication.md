@@ -4,7 +4,7 @@ title: "Deepness: Deep neural remote sensing plugin for QGIS - SoftwareX publica
 author: [aszkowski-przemyslaw, ptak-bartosz, kraft-marek, pieczynski-dominik]
 modified: 2023-08-17
 tags: [qgis, plugin, deepness, remote sensing]
-category: [project]
+category: [publication]
 teaser: "/assets/images/posts/2023/08/deepness-thumb.webp"
 ---
 <BR>
