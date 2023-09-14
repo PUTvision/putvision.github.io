@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Increasing the quality of fiber hemp seed by robotization (POIR.01.01.01-00-0662/20)"
+title: "Increasing the quality of fiber hemp seed by robotization (POIR.01.01.01-00-2271/20)"
 author: [kraft-marek, pieczynski-dominik, ptak-bartosz, piechocki-mateusz]
 modified: 2022-01-01
 tags: [ncbir, hemp, robotics, vision]
@@ -11,9 +11,9 @@ teaser: "/assets/images/posts/2022/01/hemp_thumb.webp"
 
 # Scope
 
-> Increasing the quality of fiber hemp seed by robotization. (POIR.01.01.01-00-0662/20)  
+> Increasing the quality of fiber hemp seed by robotization. (POIR.01.01.01-00-2271/20)  
 In original:   
-Robotyzacja procesu zwiększania jakości materiału siewnego konopi włóknistej. (POIR.01.01.01-00-2271/20-00)
+Robotyzacja procesu zwiększania jakości materiału siewnego konopi włóknistej. (POIR.01.01.01-00-2271/20)
 
 ## Aim
 
