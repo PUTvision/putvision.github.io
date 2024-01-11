@@ -1,21 +1,21 @@
 ---
 layout: single
-title: "LunarSim: Lunar Rover Simulator Focused on High Visual Fidelity and ROS 2 Integration for Advanced Computer Vision Algorithm Development"
-author: [pieczynski-dominik, ptak-bartosz, kraft-marek]
-modified: 2023-11-21
-tags: [space, robotics, computer vision]
+title: "A fast, lightweight deep learning vision pipeline for autonomous UAV landing support with added robustness"
+author: [pieczynski-dominik, ptak-bartosz, kraft-marek, piechocki-mateusz, aszkowski-przemyslaw]
+modified: 2024-01-11
+tags: [uav, robotics, computer vision, deep learning]
 category: [publication]
-teaser: "/assets/images/posts/2023/11/lunarsim-thumb.webp"
+teaser: "/assets/images/posts/2024/01/vital-thumb.webp"
 ---
 <BR>
 
 <p align="center">
-    <img src="/assets/images/posts/2023/11/lunarsim.webp" height="300px" />
+    <img src="/assets/images/posts/2024/01/vital.webp" height="300px" />
 </p>
 
 
 ## Abstract:
 
-Autonomous lunar exploration is a complex task that requires the development of sophisticated algorithms to control the movement of lunar rovers in a challenging environment, based on visual feedback. To train and evaluate these algorithms, it is crucial to have access to both a simulation framework and data that accurately represent the conditions on the lunar surface, with the main focus on providing the visual fidelity necessary for computer vision algorithm development. In this paper, we present a lunar-orientated robotic simulation environment, developed using the Unity game engine, built on top of robot operating system 2 (ROS 2), which enables researchers to generate quality synthetic vision data and test their algorithms for autonomous perception and navigation of lunar rovers in a controlled environment. To demonstrate the versatility of the simulator, we present several use cases in which it is deployed on various efficient hardware platforms, including FPGA and Edge AI devices, to evaluate the performance of different vision-based algorithms for lunar exploration. In general, the simulation environment provides a valuable tool for researchers developing lunar rover systems.
+Despite massive development in aerial robotics, precise and autonomous landing in various conditions is still challenging. This process is affected by many factors, such as terrain shape, weather conditions, and the presence of obstacles. This paper describes a deep learning-accelerated image processing pipeline for accurate detection and relative pose estimation of the UAV with respect to the landing pad. Moreover, the system provides increased safety and robustness by implementing human presence detection and error estimation for both landing target detection and pose computation. Human presence and landing pad location are performed by estimating the presence probability via segmentation. This is followed by the landing pad keypoints’ location regression algorithm, which, in addition to coordinates, provides the uncertainty of presence for each defined landing pad landmark. To perform the aforementioned tasks, a set of lightweight neural network models was selected and evaluated. The resulting measurements of the system’s performance and accuracy are presented for each component individually and for the whole processing pipeline. The measurements are performed using onboard embedded UAV hardware and confirm that the method can provide accurate, low-latency feedback information for safe landing support.
 
-You can find more about this research in our paper in Applied Sciences journal: [https://www.mdpi.com/2076-3417/13/22/12401](https://www.mdpi.com/2076-3417/13/22/12401)
+You can find more about this research in our paper in Engineering Applications of Artificial Intelligence journal: [https://www.sciencedirect.com/science/article/pii/S0952197624000228](https://www.sciencedirect.com/science/article/pii/S0952197624000228)
