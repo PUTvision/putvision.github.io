@@ -17,8 +17,8 @@ teaser: "/assets/images/posts/2024/03/r24-thumb.webp"
 In March 2024, we had the opportunity to participate in the R-24 Conference in Odense, Denmark. The event was organized by the Odense Robotics Cluster and the Danish Technological Institute. The conference was dedicated to the latest trends in robotics, automation, and drones. 
 
 The conference was divided into five thematic tracks:
-- **Manufacturing** - the latest trends in industrial automation, including the use of collaborative robots, machine vision, and AI in production.
-- **Construction** - the use of drones and robots in construction, including the use of autonomous machines in the construction of buildings and infrastructure.
-- **Agriculture & Horticulture** - the use of robots and drones in agriculture and horticulture, including the use of autonomous machines in the cultivation and harvesting of crops.
+- **Manufacturing** - the use of collaborative robots, machine vision, and AI in production.
+- **Construction** - the use of autonomous machines to monitor and inspect construction sites, as well as the use of drones in the construction industry.
+- **Agriculture & Horticulture** - smart farming, the use of drones in agriculture, and the use of robots in the cultivation of plants.
 - **Energy** - the use of robots and drones in the energy sector, including the use of autonomous machines in the maintenance and inspection of energy infrastructure.
-- **Healthcare** - the use of robots and drones in healthcare, including the use of autonomous machines in the care of the elderly and disabled.
+- **Healthcare** - the use of robots and drones in healthcare, including the use of autonomous machines in the care of the elderly and disabled people.
