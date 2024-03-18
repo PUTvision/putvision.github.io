@@ -2,7 +2,7 @@
 layout: single
 title: "R-24 Odense - Robotics, Automation, and Drones Conference"
 author: [ptak-bartosz, aszkowski-przemyslaw]
-modified: 2024-01-22
+modified: 2024-03-18
 tags: [research, computer vision, robotics, deep learning]
 category: [article]
 teaser: "/assets/images/posts/2024/03/r24-thumb.webp"
