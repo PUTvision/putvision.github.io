@@ -7,7 +7,7 @@ layout: archive
 {% if paginator %}
   {% assign postsByYear = paginator.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% else %}
-{% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+  {% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% endif %}
 
 
@@ -16,13 +16,21 @@ layout: archive
 {% for year in postsByYear %}
 
   {% for post in year.items %}
+  
+    {% assign in_cat = false %}
     {% for cat in post.category %}
+    
       {% if page.category contains cat %}
-      <p>
-        {% include archive-single.html type=entries_layout %}
-      </p>
+        {% assign in_cat = true %}
+
       {% endif %}
+    
     {% endfor %}
+
+    {% if in_cat %}
+      {% include archive-single.html type=entries_layout %}
+    {% endif %}
+
   {% endfor %}
 
 {% endfor %}
