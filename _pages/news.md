@@ -1,7 +1,7 @@
 ---
 title: "Recent Posts"
-layout: mycategory2
+layout: mycategory
 permalink: /news
 author_profile: false
-category: news
+category: ['news', 'project', 'publication', 'conference', 'dataset']
 ---

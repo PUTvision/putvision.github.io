@@ -4,7 +4,12 @@ layout: archive
 
 {{ content }}
 
-{% assign postsByYear = paginator.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+{% if paginator %}
+  {% assign postsByYear = paginator.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+{% else %}
+{% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+{% endif %}
+
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 

@@ -1,6 +1,6 @@
 ---
 title: "Our projects"
-layout: mycategory2
+layout: mycategory
 permalink: /projects
 author_profile: false
 category: ['project']
