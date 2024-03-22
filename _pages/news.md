@@ -1,6 +1,6 @@
 ---
 title: "Recent Posts"
-layout: home
+layout: mycategory2
 permalink: /news
 author_profile: false
 category: news
