@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "ISO-compatible personal temperature measurement using visual and thermal images with facial region of interest detection"
-author: [ptak-bartosz, przemyslaw-aszkowski, kraft-marek]
+author: [ptak-bartosz, aszkowski-przemyslaw, kraft-marek]
 modified: 2023-11-21
 tags: [computer vision, RGB-D, thermal camera, temperature measurement, facial region of interest detection]
 category: [publication]
