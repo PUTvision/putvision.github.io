@@ -17,7 +17,12 @@ layout: archive
 
   {% for post in year.items %}
   
-    {% assign in_cat = false %}
+    {% if "all" in page.category %}
+      {% assign in_cat = true %}
+    {% else %}  
+      {% assign in_cat = false %}
+    {% endif %}
+    
     {% for cat in post.category %}
     
       {% if page.category contains cat %}
