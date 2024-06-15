@@ -4,7 +4,7 @@ title: "PRELUDIUM grant - Development of weak supervision methods for multispect
 author: [aszkowski-przemyslaw]
 modified: 2024-06-15
 tags: [research, computer vision, deep learning, artificial intelligence, grant, ncn]
-category: [article]
+category: [project]
 teaser: "/assets/images/posts/2024/06/preludium-ncn.webp"
 ---
 
