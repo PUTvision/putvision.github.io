@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Deepness presentation at QGIS users meeting"
-author: [aszkowski-przemyslaw, ptak-bartosz]
+author: [aszkowski-przemyslaw, kraft-marek]
 modified: 2024-06-25
 tags: [computer vision, deepness, qgis, deep learning, remote sensing]
 category: [article]
