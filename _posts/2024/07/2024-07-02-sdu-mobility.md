@@ -13,13 +13,13 @@ teaser: "/assets/images/posts/2024/07/bptak-mobility-thumb.webp"
 </p>
 
 
-Between March and June 2024, Bartosz participated in a mobility program at the UAS Drone Center at the University of Southern Denmark (SDU). The research internship was conducted under the supervision of [Henrik Skov Midtiby, Ph.D.](https://portal.findresearcher.sdu.dk/en/persons/henrik-skov-midtiby), and focused on the development of computer vision algorithms for the analysis of marine environments using video data collected by drones. The stay covered the knowledge exchange, research collaboration, and the development of a joint research project between the UAS Drone Center and the Institute of Robotics and Machine Intelligence at the Poznan University of Technology.
+Between April and June 2024, Bartosz participated in a mobility program at the UAS Drone Center at the University of Southern Denmark (SDU). The research internship was conducted under the supervision of [Henrik Skov Midtiby, PhD](https://portal.findresearcher.sdu.dk/en/persons/henrik-skov-midtiby) and focused on the development of computer vision algorithms for the analysis of marine environments using video data collected by drones. The stay covered the knowledge exchange, research collaboration, and the development of a joint research project between the UAS Drone Center and the Institute of Robotics and Machine Intelligence at the Poznan University of Technology.
 
 ## Research Scope
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/fbsrBeEoFLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The research focused on developing object detection and tracking algorithms for analysing porpoises (pol. morświny) in marine environments. The goal was to create a system that automatically detects and tracks porpoises' positions in drone video data collected by biologists. The proposed system is based on a widely used deep learning object detection method and enhances the SORT algorithm for object tracking by incorporating a mix of classical computer vision techniques. Analysing marine video data is challenging due to the complex background, water reflections, and the small size and dynamic movement of porpoises.
+The research focused on developing object detection and tracking algorithms for analysing porpoises (pol. morświny) in marine environments. The goal was to create a system that automatically detects and tracks porpoises' positions in drone video data collected by biologists. The proposed system is based on a widely used deep learning object detection method, and enhances the SORT algorithm for object tracking by incorporating a mix of classical computer vision techniques. Analysing marine video data is challenging due to the complex background, water reflections, and the small size and dynamic movement of porpoises.
 
 ## Acknowledgment
 
