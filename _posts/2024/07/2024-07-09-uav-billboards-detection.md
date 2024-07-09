@@ -2,7 +2,7 @@
 layout: single
 title: "Mapping urban large-area advertising structures using drone imagery and deep learning-based spatial data analysis"
 author: [ptak-bartosz, kraft-marek]
-modified: 2024-07-05
+modified: 2024-07-09
 tags: [uav, object detection, deep learning, gis, billboards]
 category: [publication, dataset]
 teaser: "/assets/images/posts/2024/07/uavbilly-thumb.webp"
