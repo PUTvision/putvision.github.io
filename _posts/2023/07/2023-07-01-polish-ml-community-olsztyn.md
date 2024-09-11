@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Polish ML Community - Olsztyn Presentation about Vision in Robotics"
+title: "Polish ML Community in Olsztyn - Presentation about Vision in Robotics"
 author: [ptak-bartosz]
 modified: 2023-07-01
 tags: [machine learning, artificial intelligence, robotics, computer vision]
