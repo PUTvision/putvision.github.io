@@ -12,4 +12,4 @@ teaser: "/assets/images/posts/2024/01/ghost-thumb.webp"
     <img src="/assets/images/posts/2024/01/ghost.webp" height="300px" />
 </p>
 
-Last Thursday,Marek Kraft was pleased to address the topic of how, as the world's population grows, the development of precision agriculture is becoming a key aspect to help meet the increasing demand for food, with his presentation titled "How does deep learning support the development of precision agriculture and robotics?" at the GHOST x CybAiR Applied Deep Learning Meetup #1!
+Last Thursday, Marek Kraft was pleased to address the topic of how, as the world's population grows, the development of precision agriculture is becoming a key aspect to help meet the increasing demand for food, with his presentation titled "How does deep learning support the development of precision agriculture and robotics?" at the [GHOST](https://www.facebook.com/pp.ghost) x [CybAiR](https://www.facebook.com/CybAiR) Applied Deep Learning Meetup #1!
