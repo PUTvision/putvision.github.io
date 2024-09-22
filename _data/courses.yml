@@ -5,7 +5,7 @@ wdpo:
   language    : "PL"
   field       : "Automatic control and robotics"
   level       : "bechelor degree, 5 semester"
-  online      : "https://jug.dpieczynski.pl/lab-wdpo/"  
+  online      : "https://put-jug.github.io/lab-wdpo/"  
   info:
     - "Basics of image processing using OpenCV in Python language"
     - "Classical image processing methods"
@@ -50,7 +50,7 @@ edge:
   language    : "PL"
   field       : "Automatic control and robotics"
   level       : "master degree, 3 semester"
-  online      : "https://jug.dpieczynski.pl/lab-swpb/"
+  online      : "https://put-jug.github.io/lab-swpb/"
   info:
     - "Architectures of embedded systems and ways of edge processing"
     - "How to speed up computing?"
