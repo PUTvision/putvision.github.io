@@ -14,7 +14,7 @@ teaser: "/assets/images/posts/2024/11/dss-thumb.webp"
 
 At [Data Science Summit](https://main.dssconf.pl/) is the largest "Data" / AI conference in Central and Eastern Europe (CEE) region. The event is organized by a non-profit organization that aims to foster the development of data science and AI in the region. The conference is a unique opportunity to meet and network with leading experts in the field, as well as to learn about the latest trends and technologies in data science and AI.
 
-## Marek's presentation about
+## Marek's presentation about the Deepness plugin
 
 <p align="center">
     <img src="/assets/images/posts/2024/11/dss-marek.webp" height="300px" />
