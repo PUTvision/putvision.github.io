@@ -1,10 +1,47 @@
 # /_data/authors.yml
 
+#### employees ####
+
+kraft-marek:  
+  status      : "employee"
+  firstname   : "Marek"
+  surname     : "Kraft"
+  title       : 'Ph.D.'
+  avatar      : "/assets/images/bio/marekkraft.webp"
+  links:
+    - label: "Email"
+      icon: "fa fa-envelope"
+      url: "mailto:marek.kraft@put.poznan.pl"
+
+pieczynski-dominik:  
+  status      : "employee"
+  firstname   : "Dominik"
+  surname     : "Pieczyński"
+  title       : #
+  avatar      : "/assets/images/bio/dominikpieczynski.webp"
+  links:
+    - label: "Email"
+      icon: "fa fa-envelope"
+      url: "mailto:dominik.pieczynski@put.poznan.pl"
+
+fularz-michal:  
+  status      : "employee"
+  firstname   : "Michał"
+  surname     : "Fularz"
+  title       : 'Ph.D.'
+  avatar      : "/assets/images/bio/michalfularz.webp"
+  links:
+    - label: "Email"
+      icon: "fa fa-envelope"
+      url: "mailto:michal.fularz@put.poznan.pl"
+
+#### PhD students ####
+
 ptak-bartosz:
+  status      : "phdstudent"
   firstname   : "Bartosz"
   surname     : "Ptak"
   title       : #
-  bio         : "Ph.D. student. On-board deep learning and image processing for UAVs and UGVs."
   avatar      : "/assets/images/bio/bartoszptak.webp"
   links:
     - label: "Email"
@@ -17,44 +54,11 @@ ptak-bartosz:
       icon: "fa fa-linkedin-square"
       url: "https://www.linkedin.com/in/bartoszptak/"
 
-aszkowski-przemyslaw:
-  firstname   : "Przemysław"
-  surname     : "Aszkowski"
-  title       : #
-  bio         : "Ph.D. student. Research on perception beyond the visible spectrum."
-  avatar      : "/assets/images/bio/przemekaszkowski.webp"
-  links:
-    - label: "Email"
-      icon: "fa fa-envelope"
-      url: "mailto:przemyslaw.aszkowski@doctorate.put.poznan.pl"
-
-pieczynski-dominik:  
-  firstname   : "Dominik"
-  surname     : "Pieczyński"
-  title       : #
-  bio         : "Research assistant. Interested in applied deep learning, especially in medical fields."
-  avatar      : "/assets/images/bio/dominikpieczynski.webp"
-  links:
-    - label: "Email"
-      icon: "fa fa-envelope"
-      url: "mailto:dominik.pieczynski@put.poznan.pl"
-
-kraft-marek:  
-  firstname   : "Marek"
-  surname     : "Kraft"
-  title       : 'Ph.D.'
-  bio         : "So far so good"
-  avatar      : "/assets/images/bio/marekkraft.webp"
-  links:
-    - label: "Email"
-      icon: "fa fa-envelope"
-      url: "mailto:marek.kraft@put.poznan.pl"
-
 piechocki-mateusz:  
+  status      : "phdstudent"
   firstname   : "Mateusz"
   surname     : "Piechocki"
   title       : #
-  bio         : "Ph.D. student. Efficient and low-cost deep learning algorithms for edge and embedded devices."
   avatar      : "/assets/images/bio/mateuszpiechocki.webp"
   links:
     - label: "Email"
@@ -67,13 +71,27 @@ piechocki-mateusz:
       icon: "fa fa-linkedin-square"
       url: "https://www.linkedin.com/in/mateusz-piechocki-68b517192"
 
-fularz-michal:  
-  firstname   : "Michał"
-  surname     : "Fularz"
-  title       : 'Ph.D.'
-  bio         : "Bike, LEGO and food."
-  avatar      : "/assets/images/bio/michalfularz.webp"
+aszkowski-przemyslaw:
+  status      : "phdstudent"
+  firstname   : "Przemysław"
+  surname     : "Aszkowski"
+  title       : #
+  avatar      : "/assets/images/bio/przemekaszkowski.webp"
   links:
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "mailto:michal.fularz@put.poznan.pl"
+      url: "mailto:przemyslaw.aszkowski@doctorate.put.poznan.pl"
+
+
+#### Collaborators ####
+
+wilinski-michal:
+  status      : "collaborator"
+  firstname   : "Michał"
+  surname     : "Wiłiński"
+  title       : #
+  avatar      : "/assets/images/bio/michalwilinski.webp"
+  links:
+    - label: "Linkedin"
+      icon: "fa fa-linkedin-square"
+      url: "https://www.linkedin.com/in/michal-wilinski/"
