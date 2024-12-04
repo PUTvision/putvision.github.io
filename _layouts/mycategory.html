@@ -4,38 +4,14 @@ layout: archive
 
 {{ content }}
 
-{% if paginator %}
-{% assign postsByYear = paginator.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
-{% else %}
-{% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
-{% endif %}
+<p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
-{% for year in postsByYear %}
+{% for post in paginator.posts %}
 
-  {% for post in year.items %}
-
-  {% if page.category contains 'all' %}
-    {% assign in_cat = true %}
-  {% else %}
-    {% assign in_cat = false %}
-  {% endif %}
-
-  {% for cat in post.category %}
-
-    {% if page.category contains cat %}
-      {% assign in_cat = true %}
-    {% endif %}
-
-  {% endfor %}
-
-  {% if in_cat %}
     {% include archive-single.html type=entries_layout %}
-  {% endif %}
-
-  {% endfor %}
 
 {% endfor %}
 
