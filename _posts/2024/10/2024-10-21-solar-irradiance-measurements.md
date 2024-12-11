@@ -5,9 +5,8 @@ author: [piechocki-mateusz]
 modified: 2024-10-21
 tags: [solar irradiance, sky observation, forecasting]
 category: [news]
-teaser: "/assets/images/posts/2024/10/2024_10_23__16_05_36_Poznan.webp
+teaser: "/assets/images/posts/2024/10/2024_10_23__16_05_36_Poznan.webp"
 ---
-<BR>
 
 To harness the power of the sun effectively, precise data is essential. That's why we've recently mounted our solar irradiance measurement devices at the roof of Centre for Mechatronics, Biomechanics and Nanoengineering of the Poznan University of Technology. It is strategic locations because it is a quality testing station, it facilitates rapid modifications and a photovoltaic installation is planned for the selected site in the near future. In addition to Poznań site, measurements were collected also in Modena (Italy) and Karpicko.
 
