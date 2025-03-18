@@ -3,7 +3,7 @@ layout: single
 title: "Mistletoe monitoring on pine trees"
 author: [aszkowski-przemyslaw, ptak-bartosz, pieczynski-dominik]
 modified: 2025-02-11
-tags: [misletoe, uav, orthophoto, trees, detection, forest]
+tags: [mistletoe, multispectral, uav, orthophoto, trees, detection, forest]
 category: [news]
 teaser: "/assets/images/posts/2025/02/jemiola_icon.webp"
 ---
