@@ -9,7 +9,7 @@ teaser: "/assets/images/posts/2025/03/adm-thumb.webp"
 ---
 
 <p align="center">
-    <img src="/assets/images/posts/2025/03/adm-thumb.webp" height="300px" />
+    <img src="/assets/images/posts/2025/03/adm-header.webp" height="300px" />
 </p>
 
 Yesterday (20.03.2025), Bartosz Ptak presented the Deepness plugin during the Urban Data Integrator Webinar organized by the [Institute of Urban and Regional Development](https://danemiejskie.pl/).
