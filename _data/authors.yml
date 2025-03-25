@@ -95,3 +95,17 @@ wilinski-michal:
     - label: "Linkedin"
       icon: "fa fa-linkedin-square"
       url: "https://www.linkedin.com/in/michal-wilinski/"
+
+zacholski-piotr:
+  status      : "collaborator"
+  firstname   : "Piotr"
+  surname     : "Zacholski"
+  title       : #
+  avatar      : "/assets/images/bio/piotrzacholski.webp"
+  links:
+    - label: "Github"
+      icon: "fa fa-github-square"
+      url: "https://github.com/2acholsk1"
+    - label: "Linkedin"
+      icon: "fa fa-linkedin-square"
+      url: "https://www.linkedin.com/in/piotr-zacholski-1742a3195/"
