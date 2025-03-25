@@ -101,7 +101,7 @@ zacholski-piotr:
   firstname   : "Piotr"
   surname     : "Zacholski"
   title       : #
-  avatar      : 
+  avatar      : "/assets/images/bio/piotrzacholski1.webp"
   links:
     - label: "Github"
       icon: "fa fa-github-square"
