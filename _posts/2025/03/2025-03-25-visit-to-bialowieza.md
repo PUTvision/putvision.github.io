@@ -20,6 +20,8 @@ As the population of european bisons in the Białowieża area grows, the amount 
 
 To better understand the scale of the problem, our team conducted multispectral imaging using UAVs (Unmanned Aerial Vehicles). The collected data allowed us to create detailed orthophotos of the affected fields, highlighting the areas damaged by the bisons.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_lvNenDmAfA?si=gFv0uur-UUsO7_PJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Multispectral imaging and analysis
 
 Using multispectral cameras mounted on UAVs, we captured images in various spectral bands. This technology enables us to differentiate between healthy and damaged vegetation. By analyzing the data, we can estimate the extent of the damage and provide valuable insights to both researchers and farmers.
