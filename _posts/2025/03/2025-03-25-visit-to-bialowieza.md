@@ -9,7 +9,7 @@ teaser: "/assets/images/posts/2025/03/bsn-rapeseed.webp"
 ---
 
 <p align="center">
-    <img src="/assets/images/posts/2025/03/bsn-rapeseed.webp" height="300px" />
+    <img src="/assets/images/posts/2025/03/bsn-bisons.webp" height="300px" />
 </p>
 
 Members of our team have visited Prof. Eng. Rafał Kowalczyk from Mammal Research Institute of the Polish Academy of Sciences in Białowieża, Poland. The goal of the visit was to research the level of rapeseed crop damages caused by european bisons.
