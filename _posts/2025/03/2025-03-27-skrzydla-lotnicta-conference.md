@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Conference Skrzydła Lotnictwa with Best Poster Award"
-author: [piotr-zacholski, dominik-pieczynski, marek-kraft]
+author: [zacholski-piotr, pieczynski-dominik, kraft-marek]
 modified: 2025-03-25
 tags: [computer vision, deep learning, uav, metric learning]
 category: [conference]
