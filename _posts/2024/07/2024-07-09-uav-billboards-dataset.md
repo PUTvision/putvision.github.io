@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "UAVBillboard dataset"
+title: "UAVBillboard dataset - billboards detection in aerial images"
 author: [ptak-bartosz, kraft-marek]
 modified: 2024-07-09
 tags: [uav, object detection, deep learning, gis, billboards]

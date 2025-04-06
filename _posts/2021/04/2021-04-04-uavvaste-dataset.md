@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "UAVVaste dataset"
+title: "UAVVaste dataset - rubbish detection in aerial images"
 author: [kraft-marek, piechocki-mateusz, ptak-bartosz]
 modified: 2021-04-04
 tags: [uav, object detection]

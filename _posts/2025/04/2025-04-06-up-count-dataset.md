@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "UP-COUNT"
+title: "UP-COUNT dataset - people localization in high-resolution aerial images"
 author: [ptak-bartosz, kraft-marek]
 modified: 2025-04-06
 tags: [crowd management, people localization, high-resolution image processing, unmanned aerial vehicles, aerial remote sensing]
