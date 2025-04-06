@@ -17,8 +17,7 @@ teaser: "/assets/images/posts/2025/04/up-count-thumb.webp"
 
 Check the dataset webpage at: [https://up-count.github.io/](https://up-count.github.io/).
 
-## Short previef of sequences
-
+## Short preview of the dataset
 <iframe width="640" height="480" src="https://www.youtube.com/embed/BGywlslIFNM" title="UP COUNT dataset | Sequences overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ## The most crowed sequence
