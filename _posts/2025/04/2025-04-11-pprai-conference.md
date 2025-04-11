@@ -5,7 +5,7 @@ author: [zacholski-piotr, piechocki-mateusz, kraft-marek]
 modified: 2025-04-11
 tags: [computer vision, deep learning, robotics, artificial inteligence, remote sensing]
 category: [conference]
-teaser: "/assets/images/posts/2025/04/pprai-2025-logo.webp"
+teaser: "/assets/images/posts/2025/04/pp-rai-logo.webp"
 ---
 
 <p align="center">
