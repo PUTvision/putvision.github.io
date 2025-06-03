@@ -3,7 +3,7 @@ layout: single
 title: "Improving consistency of marine mammals tracking in challenging drone recordings through visual particle filter integration"
 author: [ptak-bartosz, kraft-marek]
 modified: 2025-06-03
-tags: [hemp, computer vision, deep learning, robotics, manipulation]
+tags: [computer vision, deep learning, robotics, uav, sensing, tracking, marine mammals, porpoise, dataset]
 category: [publication]
 teaser: "/assets/images/posts/2025/06/porp-thumb.jpg"
 ---
