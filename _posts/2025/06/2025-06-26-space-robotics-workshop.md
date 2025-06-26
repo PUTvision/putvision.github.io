@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "I Doctoral Workshop on Space Robotics"
+title: "I Doctoral Workshop on Space Robotics - best presentation award!"
 author: [ptak-bartosz, pieczynski-dominik]
 modified: 2025-06-26
 tags: [robotics, conference, event]
@@ -31,3 +31,12 @@ We had the oportunity to represent our laboratory and present our research:
   - Dominik presented "Computer Vision Laboratory" - a talk about our research in the field of computer vision, including the latest advancements and applications in space robotics.
 
   - Bartosz's presentation was titled "Space Robotics Meets Traversability Map Estimation With Bird's Eye View Representation", highlighting the potential of this approach.
+
+
+## Best presentation award
+
+<p align="center">
+    <img src="/assets/images/posts/2025/06/malaga-award.webp" height="300px" />
+</p>
+
+Bartosz Ptak was awarded the **Best Presentation Award** for his talk on "Space Robotics Meets Traversability Map Estimation With Bird's Eye View Representation". It is a great honor to receive this recognition, and we are grateful for the opportunity to share our research with the community.
