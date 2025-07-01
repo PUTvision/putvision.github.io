@@ -18,7 +18,6 @@ We are delighted to report that our Deepness plugin has gained significant tract
 <p align="center">
     <img src="/assets/images/posts/2025/06/marek_przemek.webp" height="500px" />
 </p>
-Photo: Stowarzyszenie QGIS Polska
 
 # Deepness
 
@@ -28,3 +27,4 @@ Deepness - an open-source plugin for the QGIS application, allowing the easy emp
 <p align="center">
     <img src="/assets/images/posts/2025/06/all_people.webp" height="300px" />
 </p>
+Photo: Stowarzyszenie QGIS Polska
