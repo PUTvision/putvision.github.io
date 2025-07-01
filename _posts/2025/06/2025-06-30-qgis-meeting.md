@@ -2,7 +2,7 @@
 layout: single
 title: "Our participation at QGIS users meeting"
 author: [aszkowski-przemyslaw, kraft-marek]
-modified: 2025-06-26
+modified: 2025-06-30
 tags: [computer vision, deepness, qgis, deep learning, remote sensing, ai, gis]
 category: [article]
 teaser: "/assets/images/posts/2025/06/cake.webp"
