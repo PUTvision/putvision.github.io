@@ -46,7 +46,7 @@ ptak-bartosz:
   links:
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "mailto:bartosz.ptak@doctorate.put.poznan.pl"
+      url: "mailto:bartosz.ptak@put.poznan.pl"
     - label: "Github"
       icon: "fa fa-github-square"
       url: "https://github.com/bartoszptak"
