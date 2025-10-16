@@ -10,7 +10,6 @@ author_profile: false
 
 {% assign authors = site.data.authors | sort %}
 
-<h3>Employees</h3>
 <div class="grid__wrapper">
 
 {% for f in authors %}

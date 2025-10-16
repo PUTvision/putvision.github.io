@@ -38,7 +38,7 @@ fularz-michal:
 #### PhD students ####
 
 ptak-bartosz:
-  status      : "phdstudent"
+  status      : "employee"
   firstname   : "Bartosz"
   surname     : "Ptak"
   title       : #
@@ -55,7 +55,7 @@ ptak-bartosz:
       url: "https://www.linkedin.com/in/bartoszptak/"
 
 piechocki-mateusz:  
-  status      : "phdstudent"
+  status      : "employee"
   firstname   : "Mateusz"
   surname     : "Piechocki"
   title       : #
@@ -72,7 +72,7 @@ piechocki-mateusz:
       url: "https://www.linkedin.com/in/mateusz-piechocki-68b517192"
 
 aszkowski-przemyslaw:
-  status      : "phdstudent"
+  status      : "employee"
   firstname   : "Przemysław"
   surname     : "Aszkowski"
   title       : #
