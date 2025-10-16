@@ -25,7 +25,7 @@ During the conference, representatives from ESA and NASA discussed their approac
 ## Space companies, robotics and AI
 
 <p align="center">
-    <img src="/assets/images/posts/2025/10/astra-aibus.webp" height="300px"/>
+    <img src="/assets/images/posts/2025/10/astra-airbus.webp" height="300px"/>
 </p>
 
 One of the highlights of the symposium was the special session dedicated to lunar rovers, which featured presentations from leading companies in the field, including Airbus, Space Applications Services, Thales Alenia Space Italia, Ispace Europe, and GMV. The session provided insights into the latest developments in lunar rover technology, including advancements in mobility, autonomy, and scientific instrumentation.
