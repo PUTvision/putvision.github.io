@@ -35,8 +35,6 @@ fularz-michal:
       icon: "fa fa-envelope"
       url: "mailto:michal.fularz@put.poznan.pl"
 
-#### PhD students ####
-
 ptak-bartosz:
   status      : "employee"
   firstname   : "Bartosz"

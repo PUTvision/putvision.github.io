@@ -14,19 +14,14 @@ author_profile: false
 
 {% for f in authors %}
   {% assign author = f[1] %}
-    {% if author.status == "employee" %}
+    {% if author.status == "employee" & author.title == "Ph.D." %}
       {% include profile-single.html type="grid" author=author %}
     {% endif %}
 {% endfor %}
-</div>
-
-<div style="clear: both;"></div>
-<h3>PhD Students</h3>
-<div class="grid__wrapper">
 
 {% for f in authors %}
   {% assign author = f[1] %}
-    {% if author.status == "phdstudent" %}
+    {% if author.status == "employee" & author.title != "Ph.D." %}
       {% include profile-single.html type="grid" author=author %}
     {% endif %}
 {% endfor %}
