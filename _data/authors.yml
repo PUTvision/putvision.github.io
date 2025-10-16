@@ -17,7 +17,7 @@ pieczynski-dominik:
   status      : "employee"
   firstname   : "Dominik"
   surname     : "Pieczyński"
-  title       : ''
+  title       : #
   avatar      : "/assets/images/bio/dominikpieczynski.webp"
   links:
     - label: "Email"
@@ -39,7 +39,7 @@ ptak-bartosz:
   status      : "employee"
   firstname   : "Bartosz"
   surname     : "Ptak"
-  title       : ''
+  title       : #
   avatar      : "/assets/images/bio/bartoszptak.webp"
   links:
     - label: "Email"
@@ -56,7 +56,7 @@ piechocki-mateusz:
   status      : "employee"
   firstname   : "Mateusz"
   surname     : "Piechocki"
-  title       : ''
+  title       : #
   avatar      : "/assets/images/bio/mateuszpiechocki.webp"
   links:
     - label: "Email"
@@ -73,7 +73,7 @@ aszkowski-przemyslaw:
   status      : "employee"
   firstname   : "Przemysław"
   surname     : "Aszkowski"
-  title       : ''
+  title       : #
   avatar      : "/assets/images/bio/przemekaszkowski.webp"
   links:
     - label: "Email"
