@@ -19,7 +19,7 @@ The HYPERVIEW2 Challenge focused on advancing explainable AI methods for Earth o
 More details can be found at workshop webpage - https://ai4eo.eu/portfolio/easi-workshop-hyperview2/
 
 <p align="center">
-    <img src="/assets/images/posts/2025/11/easi-panel.webp" height="300px"/>
+    <img src="/assets/images/posts/2025/11/easi_panel.webp" height="300px"/>
 </p>
 
 Explainable AI in space matters because AI is increasingly used for mission-critical tasks such as satellite operations, Earth observation, and environmental monitoring. Without transparency or interpretability, decisions made by AI systems might lack accountability or trustworthiness — especially in high-stakes or safety-critical scenarios.By promoting explainability, the workshop helps ensure that AI can be audited, understood by human operators, and aligned with ethical and safety requirements in space-related contexts.
