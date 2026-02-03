@@ -39,7 +39,7 @@ ptak-bartosz:
   status      : "employee"
   firstname   : "Bartosz"
   surname     : "Ptak"
-  title       : #
+  title       : "Ph.D."
   avatar      : "/assets/images/bio/bartoszptak.webp"
   links:
     - label: "Email"
